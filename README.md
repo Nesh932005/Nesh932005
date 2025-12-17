@@ -36,7 +36,7 @@ Continuously improve my coding and problem-solving skills
 
 Python
 
-JavaScript
+Java
 
 HTML
 
